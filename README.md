@@ -1,4 +1,4 @@
-# Hotel Booking Analisis Dashboard
+# Hotel Booking Analysis Dashboard
 ## Overview
 This PowerBI visualization project aims to provide insights into hotel booking trends and patterns using a sample hotel booking dataset. The dataset contains information about bookings made by guests, including reservation details, guest demographics, and booking trends over time.
 ## Features
